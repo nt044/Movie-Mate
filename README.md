@@ -1,4 +1,4 @@
-# flutter_movies_app_ui
+# Movie-Mate
 
 A new Flutter project.
 
